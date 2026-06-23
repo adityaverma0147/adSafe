@@ -82,11 +82,6 @@ npm run dev
 
 The application will be accessible at http://localhost:3000.
 
-## API Documentation
-
-Once the backend is running, the Swagger UI is automatically generated and can be accessed to view all REST endpoints:
-http://localhost:8080/swagger-ui/index.html
-
 ## Testing
 
 The platform includes a suite of unit tests, specifically targeting the concurrency and latency controls of the Auction Engine using Mockito.
